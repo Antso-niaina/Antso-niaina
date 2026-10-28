@@ -8,7 +8,7 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/D%C3%A9couvrir_mes_projets-2b2b29?style=for-the-badge&logo=googlechrome&logoColor=f3efe7)](https://portfolio-antso.vercel.app)
-[![CV](https://img.shields.io/badge/T%C3%A9l%C3%A9charger_mon_CV-c9b98a?style=for-the-badge&logo=readme&logoColor=2b2b29)](https://portfolio-antso.vercel.app)
+[![CV](https://img.shields.io/badge/T%C3%A9l%C3%A9charger_mon_CV-c9b98a?style=for-the-badge&logo=readme&logoColor=2b2b29)](https://portfolio-antso.vercel.app/Cv/CvAntsotiana.pdf)
 
 <br/>
 
@@ -25,6 +25,7 @@
 - <img src="https://api.iconify.design/tabler/school.svg?color=%23a89560" width="18" height="18" align="top" /> **Parcours** : Licence 3 informatique
 - <img src="https://api.iconify.design/tabler/map-pin.svg?color=%23a89560" width="18" height="18" align="top" /> **Lieu** : Madagascar
 - <img src="https://api.iconify.design/tabler/world.svg?color=%23a89560" width="18" height="18" align="top" /> **Portfolio** : [portfolio-antso.vercel.app](https://portfolio-antso.vercel.app)
+- <img src="https://api.iconify.design/tabler/file-cv.svg?color=%23a89560" width="18" height="18" align="top" /> **CV** : [Télécharger le PDF](https://portfolio-antso.vercel.app/Cv/CvAntsotiana.pdf)
 - <img src="https://api.iconify.design/tabler/mail.svg?color=%23a89560" width="18" height="18" align="top" /> **Contact** : [antsoniaina26@gmail.com](mailto:antsoniaina26@gmail.com)
 
 ---
