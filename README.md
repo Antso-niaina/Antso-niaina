@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antso-niaina/Antso-niaina/main/assets/banner-dark.svg" />
-  <img alt="A. Antsotiana, développement Full-Stack, Backend, Data" src="https://raw.githubusercontent.com/Antso-niaina/Antso-niaina/main/assets/banner-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antso-niaina/Antso-niaina/main/assets/banner-dark.svg?v=2" />
+  <img alt="A. Antsotiana, développement Full-Stack, Backend, Data" src="https://raw.githubusercontent.com/Antso-niaina/Antso-niaina/main/assets/banner-light.svg?v=2" width="100%" />
 </picture>
 
 <br/><br/>
