@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ANTSOTIANA&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Architecte%20de%20l%27invisible&descSize=22&descAlignY=58" width="100%" />
 
 <!-- TEXTE QUI S'ÉCRIT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00F5D4&center=true&vCenter=true&width=640&lines=Backend+Developer;APIs+%C2%B7+Bases+de+donn%C3%A9es;Si+vous+ne+voyez+pas+mon+travail%2C+c%27est+qu%27il+fonctionne.;Disponible+pour+missions+%F0%9F%9F%A2" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00F5D4&center=true&vCenter=true&width=640&lines=Backend+Developer;APIs+%C2%B7+Bases+de+donn%C3%A9es;Si+vous+ne+voyez+pas+mon+travail%2C+c%27est+qu%27il+fonctionne.;Disponible+pour+missions" alt="typing" />
 
 <br/><br/>
 
@@ -15,15 +15,15 @@
 
 ---
 
-## ⚡ À propos
+## <img src="https://api.iconify.design/tabler/user.svg?color=%2300f5d4" width="24" height="24" align="top" /> À propos
 
-- 🛠️ **Rôle** : Full-stack
-- 🌍 **Territoire** : APIs · Bases de données
-- 📫 **Contact** : [antsoniaina26@gmail.com](mailto:antsoniaina26@gmail.com)
+- <img src="https://api.iconify.design/tabler/code.svg?color=%2300f5d4" width="18" height="18" align="top" /> **Rôle** : Backend developer
+- <img src="https://api.iconify.design/tabler/database.svg?color=%2300f5d4" width="18" height="18" align="top" /> **Territoire** : APIs · Bases de données
+- <img src="https://api.iconify.design/tabler/mail.svg?color=%2300f5d4" width="18" height="18" align="top" /> **Contact** : [antsoniaina26@gmail.com](mailto:antsoniaina26@gmail.com)
 
 ---
 
-## 🧰 Stack
+## <img src="https://api.iconify.design/tabler/stack-2.svg?color=%2300f5d4" width="24" height="24" align="top" /> Stack
 
 <div align="center">
 
@@ -39,12 +39,13 @@
 
 ---
 
-## 🚀 Projet
+## <img src="https://api.iconify.design/tabler/rocket.svg?color=%2300f5d4" width="24" height="24" align="top" /> Projet
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Antso-niaina/madavola"><b>🔹 madavola</b></a><br/>
+      <img src="https://api.iconify.design/tabler/folder.svg?color=%237b2ff7" width="18" height="18" align="top" />
+      <a href="https://github.com/Antso-niaina/madavola"><b>madavola</b></a><br/>
       Écosystème web + mobile. Backend, frontend, intégration.<br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
@@ -53,7 +54,7 @@
 
 ---
 
-## 📊 Activité
+## <img src="https://api.iconify.design/tabler/chart-line.svg?color=%2300f5d4" width="24" height="24" align="top" /> Activité
 
 <div align="center">
 
