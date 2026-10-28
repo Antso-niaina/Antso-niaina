@@ -1,37 +1,43 @@
-<!-- EN-TÊTE ANIMÉ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ANTSOTIANA&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Architecte%20de%20l%27invisible&descSize=22&descAlignY=58" width="100%" />
-
-<!-- TEXTE QUI S'ÉCRIT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00F5D4&center=true&vCenter=true&width=640&lines=Backend+Developer;APIs+%C2%B7+Bases+de+donn%C3%A9es;Si+vous+ne+voyez+pas+mon+travail%2C+c%27est+qu%27il+fonctionne.;Disponible+pour+missions" alt="typing" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antso-niaina/Antso-niaina/main/assets/banner-dark.svg" />
+  <img alt="A. Antsotiana, développement Full-Stack, Backend, Data" src="https://raw.githubusercontent.com/Antso-niaina/Antso-niaina/main/assets/banner-light.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
-![visiteurs](https://komarev.com/ghpvc/?username=Antso-niaina&label=Visiteurs&color=7b2ff7&style=for-the-badge)
-![followers](https://img.shields.io/github/followers/Antso-niaina?style=for-the-badge&color=00f5d4&labelColor=0d1117)
+[![Portfolio](https://img.shields.io/badge/D%C3%A9couvrir_mes_projets-2b2b29?style=for-the-badge&logo=googlechrome&logoColor=f3efe7)](https://portfolio-antso.vercel.app)
+[![CV](https://img.shields.io/badge/T%C3%A9l%C3%A9charger_mon_CV-c9b98a?style=for-the-badge&logo=readme&logoColor=2b2b29)](https://portfolio-antso.vercel.app)
+
+<br/>
+
+![visiteurs](https://komarev.com/ghpvc/?username=Antso-niaina&label=Visiteurs&color=9a8a64&style=flat-square)
+![followers](https://img.shields.io/github/followers/Antso-niaina?style=flat-square&color=9a8a64&labelColor=2b2b29)
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/tabler/user.svg?color=%2300f5d4" width="24" height="24" align="top" /> À propos
+## <img src="https://api.iconify.design/tabler/user.svg?color=%23a89560" width="22" height="22" align="top" /> À propos
 
-- <img src="https://api.iconify.design/tabler/code.svg?color=%2300f5d4" width="18" height="18" align="top" /> **Rôle** : Backend developer
-- <img src="https://api.iconify.design/tabler/database.svg?color=%2300f5d4" width="18" height="18" align="top" /> **Territoire** : APIs · Bases de données
-- <img src="https://api.iconify.design/tabler/mail.svg?color=%2300f5d4" width="18" height="18" align="top" /> **Contact** : [antsoniaina26@gmail.com](mailto:antsoniaina26@gmail.com)
+- <img src="https://api.iconify.design/tabler/code.svg?color=%23a89560" width="18" height="18" align="top" /> **Rôle** : développeur Full-Stack, Backend et Data
+- <img src="https://api.iconify.design/tabler/school.svg?color=%23a89560" width="18" height="18" align="top" /> **Parcours** : Licence 3 informatique
+- <img src="https://api.iconify.design/tabler/map-pin.svg?color=%23a89560" width="18" height="18" align="top" /> **Lieu** : Madagascar
+- <img src="https://api.iconify.design/tabler/world.svg?color=%23a89560" width="18" height="18" align="top" /> **Portfolio** : [portfolio-antso.vercel.app](https://portfolio-antso.vercel.app)
+- <img src="https://api.iconify.design/tabler/mail.svg?color=%23a89560" width="18" height="18" align="top" /> **Contact** : [antsoniaina26@gmail.com](mailto:antsoniaina26@gmail.com)
 
 ---
 
-## <img src="https://api.iconify.design/tabler/stack-2.svg?color=%2300f5d4" width="24" height="24" align="top" /> Stack
+## <img src="https://api.iconify.design/tabler/stack-2.svg?color=%23a89560" width="22" height="22" align="top" /> Compétences
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,nodejs&theme=light" />
 &nbsp;&nbsp;<b>│</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light" />
 &nbsp;&nbsp;<b>│</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github&theme=light" />
 
 <sub>Langages · Bases de données · Outils</sub>
 
@@ -39,47 +45,53 @@
 
 ---
 
-## <img src="https://api.iconify.design/tabler/rocket.svg?color=%2300f5d4" width="24" height="24" align="top" /> Projet
+## <img src="https://api.iconify.design/tabler/folder.svg?color=%23a89560" width="22" height="22" align="top" /> Projet
 
 <table>
   <tr>
     <td>
-      <img src="https://api.iconify.design/tabler/folder.svg?color=%237b2ff7" width="18" height="18" align="top" />
       <a href="https://github.com/Antso-niaina/madavola"><b>madavola</b></a><br/>
       Écosystème web + mobile. Backend, frontend, intégration.<br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-2b2b29?style=flat-square&logo=python&logoColor=c9b98a" />
     </td>
   </tr>
 </table>
 
 ---
 
-## <img src="https://api.iconify.design/tabler/chart-line.svg?color=%2300f5d4" width="24" height="24" align="top" /> Activité
+## <img src="https://api.iconify.design/tabler/chart-line.svg?color=%23a89560" width="22" height="22" align="top" /> Activité
 
 <div align="center">
 
-<!-- SERPENT QUI PARCOURT LES CONTRIBUTIONS -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antso-niaina/Antso-niaina/output/snake-dark.svg" />
-  <img alt="Serpent qui mange mes contributions" src="https://raw.githubusercontent.com/Antso-niaina/Antso-niaina/output/snake.svg" width="100%" />
+  <img alt="Serpent qui parcourt mes contributions" src="https://raw.githubusercontent.com/Antso-niaina/Antso-niaina/output/snake.svg" width="100%" />
 </picture>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Antso-niaina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antso-niaina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Antso-niaina&show_icons=true&bg_color=1b1a18&title_color=f1ebde&text_color=a39d90&icon_color=c9b98a&border_color=35322b" />
+  <img height="165" alt="Statistiques GitHub" src="https://github-readme-stats.vercel.app/api?username=Antso-niaina&show_icons=true&bg_color=f3efe7&title_color=2b2b29&text_color=6b6760&icon_color=9a8a64&border_color=d9d1bd" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Antso-niaina&layout=compact&bg_color=1b1a18&title_color=f1ebde&text_color=a39d90&border_color=35322b" />
+  <img height="165" alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antso-niaina&layout=compact&bg_color=f3efe7&title_color=2b2b29&text_color=6b6760&border_color=d9d1bd" />
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=Antso-niaina&theme=tokyonight&hide_border=true&background=0d1117" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Antso-niaina&background=1b1a18&border=35322b&ring=c9b98a&fire=c9b98a&currStreakNum=f1ebde&sideNums=f1ebde&currStreakLabel=c9b98a&sideLabels=a39d90&dates=a39d90" />
+  <img alt="Séries de contributions" src="https://streak-stats.demolab.com?user=Antso-niaina&background=f3efe7&border=d9d1bd&ring=9a8a64&fire=9a8a64&currStreakNum=2b2b29&sideNums=2b2b29&currStreakLabel=9a8a64&sideLabels=6b6760&dates=6b6760" />
+</picture>
 
 </div>
 
 ---
 
-<!-- PIED DE PAGE ANIMÉ -->
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Me_contacter-00F5D4?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:antsoniaina26@gmail.com)
+[![Me contacter](https://img.shields.io/badge/Me_contacter-2b2b29?style=for-the-badge&logo=gmail&logoColor=c9b98a)](mailto:antsoniaina26@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<sub>Licence 3 Informatique · Madagascar</sub>
 
 </div>
